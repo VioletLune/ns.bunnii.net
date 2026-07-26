@@ -1,14 +1,14 @@
 {
   "Ads": "https://ads.miaa.dev",
-  "Alena": "https://alena.miaa.dev",
-  "API": "https://api.miaa.dev",
+  "Alena": "https://alena.bunnii.net",
+  "API": "https://api.bunnii.net",
   "Auth": "https://auth.miaa.dev",
-  "CMS": "https://cms.miaa.dev",
+  "CMS": "https://cms.bunnii.net",
   "PrimaryCDN": "https://cdn.bunnii.net",
   "SecondaryCDN": "https://cdn1.bunnii.net",
   "StreamingCDN": "https://streamingcdn.miaa.dev",
-  "EndpointRouter": "https://endpointrouter.miaa.dev",
-  "Relationships": "https://relationships.miaa.dev",
-  "WWW": "https://miaa.dev",
+  "EndpointRouter": "https://endpointrouter.bunnii.net",
+  "Relationships": "https://relationships.bunnii.net",
+  "WWW": "https://bunnii.net",
   "Version": 5
 }
