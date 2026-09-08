@@ -8,8 +8,9 @@
   "PrimaryCDN": "https://cdn.bunnii.net",
   "SecondaryCDN": "https://cdn1.bunnii.net",
   "StreamingCDN": "https://streamingcdn.bunnii.net",
+  "SocialCard": "https://socialcard.bunnii.net",
   "EndpointRouter": "https://endpointrouter.bunnii.net",
   "Relationships": "https://relationships.arparec.xyz",
   "WWW": "https://violetdot.moe",
-  "Version": 8
+  "Version": 9
 }
