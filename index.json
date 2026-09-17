@@ -1,16 +1,9 @@
 {
-  "Ads": "https://ads.bunnii.net",
   "AI": "https://ai.bunnii.net",
-  "Alena": "https://alena.bunnii.net",
   "API": "https://api.bunnii.net",
-  "Auth": "https://auth.bunnii.net",
-  "CMS": "https://cms.bunnii.net",
   "PrimaryCDN": "https://cdn.bunnii.net",
   "SecondaryCDN": "https://cdn1.bunnii.net",
   "StreamingCDN": "https://streamingcdn.bunnii.net",
-  "SocialCard": "https://socialcard.bunnii.net",
-  "EndpointRouter": "https://endpointrouter.bunnii.net",
-  "Relationships": "https://relationships.arparec.xyz",
-  "WWW": "https://violetdot.moe",
-  "Version": 9
+  "WWW": "https://bunnii.net",
+  "Version": 10
 }
